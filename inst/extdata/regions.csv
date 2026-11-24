@@ -1,0 +1,5 @@
+region,climate,income,pop_2020_million,pop_growth,msw_kg_cap_day,msw_growth,food,garden,paper,wood,textiles,nappies,inert,lf_managed_anaerobic,lf_managed_semi_aerobic,lf_unmanaged_deep,lf_unmanaged_shallow,ww_aerobic_good,ww_aerobic_poor,ww_anaerobic_reactor,ww_lagoon_deep,ww_septic,ww_latrine,ww_discharge,bod_g_cap_day
+A_temperate_high,temperate_wet,high,50,0.002,1.40,0.003,0.30,0.12,0.22,0.04,0.04,0.03,0.25,0.25,0.00,0.00,0.00,0.85,0.05,0.05,0.00,0.05,0.00,0.00,60
+B_temperate_upper_middle,temperate_dry,upper_middle,80,0.006,1.00,0.012,0.45,0.08,0.14,0.02,0.03,0.02,0.26,0.45,0.05,0.15,0.05,0.40,0.15,0.05,0.10,0.15,0.05,0.10,50
+C_tropical_wet_lower_middle,tropical_wet,lower_middle,120,0.013,0.60,0.020,0.55,0.10,0.10,0.02,0.03,0.02,0.18,0.10,0.05,0.25,0.30,0.10,0.10,0.00,0.10,0.25,0.25,0.20,40
+D_tropical_dry_lower_middle,tropical_dry,lower_middle,60,0.018,0.50,0.020,0.50,0.08,0.10,0.03,0.03,0.02,0.24,0.05,0.00,0.20,0.40,0.05,0.10,0.00,0.15,0.20,0.30,0.20,37

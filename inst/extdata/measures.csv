@@ -1,0 +1,8 @@
+measure,sector,description,efficiency,eff_low,eff_high,max_applicability,cost,cost_low,cost_high,cost_unit
+organics_diversion,landfill,Separate collection of food and garden waste for composting or anaerobic digestion,1.0,1.0,1.0,0.65,35,10,60,EUR per t waste diverted
+lfg_energy,landfill,Landfill gas collection with electricity generation (managed sites),0.55,0.35,0.75,0.50,-40,-150,80,EUR per t CH4 collected
+lfg_flaring,landfill,Landfill gas collection and flaring (managed sites),0.55,0.35,0.75,0.90,120,60,200,EUR per t CH4 collected
+biocover,landfill,Biocover methane oxidation layer on sites or cells without gas collection,0.50,0.20,0.80,0.50,200,100,400,EUR per t CH4 reaching the cover
+ww_aerobic_upgrade,wastewater,Better operation of existing aerobic plants (poorly to well managed),0.90,0.70,1.00,0.80,40,20,80,EUR per t BOD treated
+ww_lagoon_cover,wastewater,Covered anaerobic lagoons with gas capture and flaring,0.80,0.60,0.90,0.80,150,80,250,EUR per t CH4 captured
+ww_septic_to_sewer,wastewater,Connecting septic tank users to sewers and aerobic treatment,1.0,1.0,1.0,0.40,25,15,40,EUR per person per year
