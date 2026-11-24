@@ -1,0 +1,16 @@
+Package: wastech4
+Title: Methane from Solid Waste and Wastewater: Emissions, Mitigation and Costs
+Version: 0.3.0
+Authors@R: person("Peiman", "Ghasemi", email = "peiman.ghasemi@univie.ac.at", role = c("aut", "cre"))
+Description: IPCC first order decay model for landfill methane and the IPCC
+    method for domestic wastewater, combined with mitigation measures
+    (organics diversion, landfill gas capture, biocovers, wastewater
+    upgrades), scenario projections, marginal abatement cost curves and
+    Monte Carlo uncertainty with rank regression sensitivity.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports: stats, utils
+Suggests: ggplot2, testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.1
